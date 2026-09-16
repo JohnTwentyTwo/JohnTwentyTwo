@@ -25,8 +25,7 @@ Software Engineer specializing in backend systems, distributed services, and clo
 ### Featured Repositories
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| `[repo-name-1]` | [Mo ta chuc nang chinh va muc dich he thong] | `TypeScript`, `Cloudflare D1` |
-| `[repo-name-2]` | [Mo ta giai phap toi uu hoa hoac backend service] | `C++`, `POSIX Sockets` |
+
 ---
 ### Statistics
 <p align="left">
