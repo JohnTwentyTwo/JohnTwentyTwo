@@ -1,6 +1,7 @@
 ```bash
 $ whoami
 vqvinh
+
 $ cat profile.json
 {
   "role": "Software Engineer",
@@ -17,8 +18,11 @@ $ cat profile.json
   "current_focus": "High-throughput APIs and low-latency data processing"
 }
 ```
+
 ---
+
 ### Tech Stack
+
 ![C++](https://img.shields.io/badge/-C%2B%2B-181717?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python&logoColor=white)
@@ -26,23 +30,26 @@ $ cat profile.json
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-181717?style=flat-square&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux&logoColor=white)
+
 ---
+
 ### Selected Projects
+
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | `discord-cloudflare-bot` | Edge-deployed automated service running on serverless workers. | `TypeScript`, `Cloudflare D1`, `SQL` | Active |
 | `core-service-engine` | High-efficiency processing engine and networking utility. | `C++`, `POSIX Sockets` | Maintained |
+
 ---
-### Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="140" alt="GitHub Metrics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" height="140" alt="Languages Breakdown" />
-</p>
----
+
 ### Contact & Collaboration
+
 ```bash
 $ curl -s https://api.vqvinh.dev/contact
 ```
+
 - **LinkedIn:** [linkedin.com/in/vqvinh22](https://www.linkedin.com/in/vqvinh22)
 - **Email:** [contact@vqvinh.dev](mailto:contact@vqvinh.dev)
+
 For inquiries regarding backend architecture, distributed systems, or collaborative engineering initiatives, connect via LinkedIn or initiate discussion via email.
+
