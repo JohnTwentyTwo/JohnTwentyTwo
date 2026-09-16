@@ -1,40 +1,48 @@
-# [Ho va Ten]
-Software Engineer specializing in backend systems, distributed services, and cloud infrastructure.
+```bash
+$ whoami
+vqvinh
+$ cat profile.json
+{
+  "role": "Software Engineer",
+  "domains": [
+    "Backend Systems",
+    "Distributed Infrastructure",
+    "Cloud Services"
+  ],
+  "stack": {
+    "languages": ["C++", "TypeScript", "Python", "SQL"],
+    "infrastructure": ["Docker", "Linux", "Cloudflare Workers", "PostgreSQL"],
+    "tools": ["Git", "GitHub Actions", "Redis"]
+  },
+  "current_focus": "High-throughput APIs and low-latency data processing"
+}
+```
 ---
-### Overview
-- **Focus:** Scalable backend architectures, API design, and cloud-native solutions.
-- **Current work:** Developing high-concurrency microservices and database optimizations.
-- **Technical interests:** Low-latency systems, edge computing, and infrastructure as code.
+### Tech Stack
+![C++](https://img.shields.io/badge/-C%2B%2B-181717?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-181717?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux&logoColor=white)
 ---
-### Technologies
-#### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white)
-#### Frameworks & Environments
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-#### Databases & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Selected Projects
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| `discord-cloudflare-bot` | Edge-deployed automated service running on serverless workers. | `TypeScript`, `Cloudflare D1`, `SQL` | Active |
+| `core-service-engine` | High-efficiency processing engine and networking utility. | `C++`, `POSIX Sockets` | Maintained |
 ---
-### Featured Repositories
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-
----
-### Statistics
+### Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="140" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" height="140" alt="Languages Breakdown" />
 </p>
 ---
 ### Contact & Collaboration
-Open to discussing technical architecture, open-source contributions, and engineering opportunities.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-Feel free to open an issue in my repositories, connect via LinkedIn, or reach out directly by email to discuss potential collaborations.
+```bash
+$ curl -s https://api.vqvinh.dev/contact
+```
+- **LinkedIn:** [linkedin.com/in/vqvinh22](https://www.linkedin.com/in/vqvinh22)
+- **Email:** [contact@vqvinh.dev](mailto:contact@vqvinh.dev)
+For inquiries regarding backend architecture, distributed systems, or collaborative engineering initiatives, connect via LinkedIn or initiate discussion via email.
