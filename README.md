@@ -49,7 +49,7 @@ $ curl -s https://api.vqvinh.dev/contact
 ```
 
 - **LinkedIn:** [linkedin.com/in/vqvinh22](https://www.linkedin.com/in/vqvinh22)
-- **Email:** [contact@vqvinh.dev](mailto:contact@vqvinh.dev)
+- **Email:** [vqvinh22@gmail.com](mailto:vqvinh22@gmail.com)
 
 For inquiries regarding backend architecture, distributed systems, or collaborative engineering initiatives, connect via LinkedIn or initiate discussion via email.
 
