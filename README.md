@@ -19,6 +19,9 @@ $ cat profile.json
 }
 ```
 
+<!-- AWAKEN:START -->
+<!-- AWAKEN:END -->
+
 ---
 
 ### Tech Stack
@@ -52,4 +55,3 @@ $ curl -s https://api.vqvinh.dev/contact
 - **Email:** [vqvinh22@gmail.com](mailto:vqvinh22@gmail.com)
 
 For inquiries regarding backend architecture, distributed systems, or collaborative engineering initiatives, connect via LinkedIn or initiate discussion via email.
-
