@@ -2,7 +2,7 @@
   "login": "JohnTwentyTwo",
   "level": 3,
   "overall": "D",
-  "overallPercentile": 0.4976499670463806,
+  "overallPercentile": 0.48183093353303397,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 38,
+      "value": 35,
       "rank": "D",
-      "percentile": 0.44345482498407107
+      "percentile": 0.42386473058907936
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 5,
+      "value": 4,
       "rank": "C",
-      "percentile": 0.728198512785954
+      "percentile": 0.6331483952649493
     },
     {
       "code": "LUK",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 38
+      "value": 35
     },
     {
       "id": "unbroken",
@@ -88,12 +88,12 @@
     {
       "id": "weekend-warrior",
       "tier": 0,
-      "value": 7
+      "value": 3
     },
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 7
+      "value": 5
     },
     {
       "id": "raider",
@@ -112,8 +112,8 @@
     },
     {
       "id": "polyglot",
-      "tier": 1,
-      "value": 3
+      "tier": 0,
+      "value": 1
     },
     {
       "id": "star-collector",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 14
+      "value": 11
     },
     {
       "id": "daily-grinder",
@@ -179,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-30",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-29",
         "cleared": 2,
         "total": 3
@@ -205,5 +210,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-29T21:45:16.029Z"
+  "syncedAt": "2026-10-30T21:27:16.790Z"
 }
